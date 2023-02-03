@@ -1,6 +1,6 @@
 // import
 const { Telegraf } = require('telegraf'); // importing telegraf.js
-var bot = new Telegraf('5917166848:AAEMA1MDWXaiS1TV8HjCyxvUA_hLDKqT4es'); 
+var bot = new Telegraf('6053367927:AAH8S-39d_aDsiWahUSNeqzT0kiBltmUznc'); 
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 // const os = require('os');
 let queryNo = 0;
