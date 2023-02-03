@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dns": "^0.1.2",
+    "node-fetch": "^2.6.8",
+    "os": "^0.1.2",
+    "telegraf": "^4.11.2"
+  }
+}
